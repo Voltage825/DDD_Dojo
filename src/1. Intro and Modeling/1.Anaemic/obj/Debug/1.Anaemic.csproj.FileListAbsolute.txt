@@ -1,0 +1,5 @@
+C:\Code\Dojo_DomainDrivenDesign\1.Anaemic\bin\Debug\1.Anaemic.dll
+C:\Code\Dojo_DomainDrivenDesign\1.Anaemic\bin\Debug\1.Anaemic.pdb
+C:\Code\Dojo_DomainDrivenDesign\1.Anaemic\obj\Debug\1.Anaemic.csprojResolveAssemblyReference.cache
+C:\Code\Dojo_DomainDrivenDesign\1.Anaemic\obj\Debug\1.Anaemic.dll
+C:\Code\Dojo_DomainDrivenDesign\1.Anaemic\obj\Debug\1.Anaemic.pdb
